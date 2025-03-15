@@ -1,0 +1,3 @@
+[submodule "auction/lib/forge-std"]
+	path = auction/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
